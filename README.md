@@ -47,4 +47,4 @@ A handsome page now costs a sentence, so the question has moved from *does it lo
 ## Correspondence
 
 In English or Chinese, by writing. [studio@karnak.design](mailto:studio@karnak.design)<br>
-[X](https://x.com/DF2006CN) · [LinkedIn](https://www.linkedin.com/in/alanyang-makebook) · [Behance](https://www.behance.net/0c583340)
+[X](https://x.com/DF2006CN) · [Behance](https://www.behance.net/0c583340)
