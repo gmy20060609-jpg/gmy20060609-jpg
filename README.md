@@ -23,8 +23,7 @@ A handsome page now costs a sentence, so the question has moved from *does it lo
 
 ## Work
 
-[SHOT ON](https://shot-on.vercel.app) · [Die Koffer mit den Rillen](https://rimowa-concept.vercel.app) · [Templum Nº 01](https://templum.space) · [Saridis of Athens](https://saridis-concept.vercel.app) · [KMSWERK](https://kmswerk.com) · [MakeBook](https://makebook.xyz)<br>
-Every one of them is live. Cases at [karnak.design](https://karnak.design).
+[Karnak](https://karnak.design) · [MakeBook](https://makebook.xyz) · [KMSWERK](https://kmswerk.com)
 
 <br>
 
@@ -47,4 +46,5 @@ Every one of them is live. Cases at [karnak.design](https://karnak.design).
 
 ## Correspondence
 
-In English or Chinese, by writing. [studio@karnak.design](mailto:studio@karnak.design) · [Behance](https://www.behance.net/0c583340)
+In English or Chinese, by writing. [studio@karnak.design](mailto:studio@karnak.design)<br>
+[X](https://x.com/DF2006CN) · [LinkedIn](https://www.linkedin.com/in/alanyang-makebook) · [Behance](https://www.behance.net/0c583340)
