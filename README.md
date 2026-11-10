@@ -34,13 +34,11 @@ A handsome page now costs a sentence. The question a brand should ask has moved 
 
 ## What we make
 
-| | |
-| :-- | :-- |
-| **Identity** | Name, mark, type and colour, and the rules that hold them together |
-| **Websites** | From the first idea to the live site, front-end included, designed for the phone as well as the desk |
-| **Product interfaces** | Data, dashboards and flows for software, research and finance |
-| **Art direction** | Archives, photography and one grade across every image |
-| **Motion** | Scroll-driven scenes, films and launch trailers |
+**Identity.** Name, mark, type and colour, and the rules that hold them together.<br>
+**Websites.** From the first idea to the live site, front-end included, designed for the phone as well as the desk.<br>
+**Product interfaces.** Data, dashboards and flows for software, research and finance.<br>
+**Art direction.** Archives, photography and one grade across every image.<br>
+**Motion.** Scroll-driven scenes, films and launch trailers.
 
 <br>
 
